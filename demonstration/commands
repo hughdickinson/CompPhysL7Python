@@ -1,0 +1,31 @@
+# LECTURE 7:
+# ==========
+#
+# LAUNCHING THE BASIC PYTHON INTERPRETER:
+# =======================================
+# To launch the basic Python interpreter from the shell command
+# line, invoke
+
+python
+
+# Type Ctrl+D to exit the basic Python interpreter
+
+# LAUNCHING THE IPYTHON INTERPRETER:
+# ==================================
+# To launch the IPython interpreter from the shell command line,
+# invoke
+
+ipython
+
+# Type Ctrl+D to exit the basic Python interpreter
+
+# LAUNCHING AN IPYTHON NOTEBOOK SESSION:
+# ======================================
+# To launch the IPython Notebook session from the shell command
+# line, invoke
+
+ipython notebook
+
+# This will launch a background IPython session, start a lightweight
+# webserver that communicates with the IPython session, then launch a
+# web browser and connect to the webserver.
