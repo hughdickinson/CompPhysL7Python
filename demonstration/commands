@@ -32,7 +32,7 @@ python
 
 ipython
 
-# Type Ctrl+D to exit the basic Python interpreter
+# Type Ctrl+D to exit the IPython interpreter
 
 # LAUNCHING AN IPYTHON NOTEBOOK SESSION:
 # ======================================
@@ -44,3 +44,7 @@ ipython notebook
 # This will launch a background IPython session, start a lightweight
 # webserver that communicates with the IPython session, then launch a
 # web browser and connect to the webserver.
+#
+# Once you have finished working with your IPython Notebook session
+# you should STOP THE BACKGROUND IPYTHON SESSION from the terminal by
+# typing Ctrl+C.
