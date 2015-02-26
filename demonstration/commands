@@ -1,6 +1,21 @@
 # LECTURE 7:
 # ==========
 #
+# DOWNLOADING AND INSTALLING THE SCIENTIFIC COMPUTING MODULES:
+# ============================================================
+#
+# There are a number of externally provided modules for Python that
+# are extremely useful for SCIENTIFIC COMPUTATION and VISUALIZATION.
+# The following commands will install the NumPy, SciPy, AstroPy and
+# Matplotlib modules.
+
+sudo apt-get install python-numpy
+sudo apt-get install python-scipy
+sudo apt-get install python-astropy
+sudo apt-get install python-matplotlib
+
+#
+#
 # LAUNCHING THE BASIC PYTHON INTERPRETER:
 # =======================================
 # To launch the basic Python interpreter from the shell command
